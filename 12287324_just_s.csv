@@ -65,6 +65,11 @@ GROUP,
 ,Choice 2
 *,Choice 3
 ,Choice 4
+<p>Question P1 G1 Q3</p>,1,one,
+,Choice 1
+,Choice 2
+*,<p>Choice 3</p>
+,Choice 4
 POOL,50%
 <p>Question P1 G1 P3 Q1</p>,1,one,
 ,Choice 1
@@ -82,11 +87,6 @@ POOL,50%
 *,Choice 3
 ,Choice 4
 END
-<p>Question P1 G1 Q3</p>,1,one,
-,Choice 1
-,Choice 2
-*,<p>Choice 3</p>
-,Choice 4
 END
 END
 <p>Question 4</p>,1,one,

@@ -1,3 +1,5 @@
+import random
+
 class Question:
 
 	def __init(self, row):
@@ -44,10 +46,10 @@ class Pool:
 
 	def get_children(self):
 			childrens = []
-			for item in self.children:
+			for item in random.sample(self.children, 5):
 				try:
 					if item.type == "group" or item.type == "pool":
-						childrens.append(item.get_children())
+						childrens.append(item.serialize())
 					else:
 						childrens.append(item)
 				except:
@@ -75,7 +77,7 @@ class Group:
 			for item in self.children:
 				try:
 					if item.type == "group" or item.type == "pool":
-						childrens.append(item.get_children())
+						childrens.append(item.serialize())
 				except:
 					childrens.append(item)
 			return childrens

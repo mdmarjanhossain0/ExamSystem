@@ -5,6 +5,14 @@ from anytree.exporter import DictExporter
 from pprint import pprint
 
 from pool import *
+
+
+
+
+
+
+
+import json
 qs = []
 single_question = None
 structure = []
@@ -66,7 +74,7 @@ def serialize_option(row):
 		data["*"] = row[1]
 	return data
 
-with open('12287324.csv', newline='') as csvfile:
+with open('12272778.csv', newline='', encoding="utf8") as csvfile:
 	spamreader = csv.reader(csvfile)
 	question = None
 	pools = []
@@ -192,4 +200,8 @@ with open('12287324.csv', newline='') as csvfile:
 
 
 	
-	print(list(map(serialize, qs)))
+
+
+	print()
+	
+	print(json.dumps(list(map(serialize, qs))))
