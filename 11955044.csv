@@ -1,0 +1,405 @@
+HTML
+<p><strong>Enter Your Name</strong></p>,,short,
+<p><strong>Enter Your Mobile Number?</strong></p>,,short,<p>Type explanation here...</p>
+POOL,80
+"<p><span style=""font-size: 18px;""><strong>স্যাটেলাইটে সরল দোলকের দোলনকাল-</strong></span></p>",1,one,
+*,<p>infinite</p>
+,<p>zero</p>
+,<p>2 sec</p>
+,<p>cannot be calculated</p>
+"<p><span style=""font-size: 18px;""><strong>সরল ছন্দিত স্পন্দরত কণায় সর্বোচ্চ বেগ v<sub>0</sub> ও সর্বোচ্চ ত্বরণ a<sub>0</sub> হলে বিস্তার-</strong></span></p>",1,one,
+*,"<p class=""mathy"">v_0^2/a_0</p>"
+,"<p class=""mathy"">v_0^2/v_0</p>"
+,"<p class=""mathy"">a_0v_0</p>"
+,"<p class=""mathy"">1/(a_0v_0)</p>"
+"<p><span style=""font-size: 18px;""><strong>কোনো আবদ্ধ গ্যাসের তাপমাত্রা 0°C থেকে বাড়িয়ে 546°C করা হলে গ্যাসের অণুগুলোর গড় বেগ কতটুকু বদ্ধি পাবে?</strong></span></p>",1,one,
+,<p>50%</p>
+,<p>40%</p>
+,<p>41%</p>
+*,<p>73%</p>
+"<p><span style=""font-size: 18px;""><strong>T তাপমাত্রায় আদর্শ গ্যাসের ক্ষেত্রে একটি অণুর গড় গতিশক্তি-</strong></span></p>",1,one,
+,<p>2/3 KT</p>
+,<p>3/2 KT<sup>2</sup></p>
+,<p>3/2 KT<sup>4</sup></p>
+*,<p>3/2 KT</p>
+"<p><span style=""font-size: 18px;""><strong>30 বছর বয়সে এক নভোচারী 0.6 C বেগে গতিশীল নভোযানে চড়ে 20 বছর কাটিয়ে আসার পর তার বয়স কত?</strong></span></p>",1,one,
+*,<p>46 বছর</p>
+,<p>47 বছর</p>
+,<p>48 বছর</p>
+,<p>49 বছর</p>
+"<p><span style=""font-size: 18px;""><strong>একটি সরল দোলকের দৈর্ঘ্য অপরটির দ্বিগুণ। দ্বিতীয় সরল দোলকের দোলনকাল 5s হলে প্রথমটির দোলনকাল কত?</strong></span></p>",1,one,
+,<p>3 Sec</p>
+*,<p>5√2 Sec</p>
+,<p>3√2Sec</p>
+,<p>5 Sec</p>
+"<p><span style=""font-size: 18px;""><strong>কোন তাপমাত্রায় হাইড্রোজেরনর মূল গড় বর্গবেগ সাধারন চাপে ও তাপমাত্রায় মূল গড় বর্গবেগের দ্বিগুণ হবে?</strong></span></p>",1,one,
+,<p>1500K</p>
+,<p>1200K</p>
+*,<p>1092K</p>
+,<p>1002K</p>
+"<p><span style=""font-size: 18px;""><strong>ওজন ঝুলানোর জন্য যদি কোন একটি স্প্রিং এর দৈর্ঘ্য x পরিমাণ বৃদ্ধি পায়, তবে স্প্রিং সঞ্চিত শক্তি পরিমাণ হবে-</strong></span></p>",1,one,
+,"<p class=""mathy"">T/(2k)</p>"
+,"<p class=""mathy"">T/k</p>"
+,"<p class=""mathy"">T^2/(2k)</p>"
+*,<p>None </p>
+"<p><span style=""font-size: 18px;""><strong>40cm দীর্ঘ একটি সরল দোলক এক মিনিটে 40 বার দোল দেয়। যদি এর দৈর্ঘ্য 160cm করা হয় তবে 60 বার দুলতে কত সময় নেবে বের কত?</strong></span></p>",1,one,
+*,<p>1.5min</p>
+,<p>3min</p>
+,<p>2 min</p>
+,<p>5min</p>
+"<p><span style=""font-size: 18px;""><strong>একটি বস্তুর সর্বোচ্চ বিস্তার 5m এবং 10s দোলকালে সরল ছন্দিত গতি সম্পন্ন। বস্তুটির সর্বোচ্চ বেগ কত?</strong></span></p>",1,one,
+,<p>7π/4 ms<sup>-1</sup></p>
+*,<p>π ms<sup>-1</sup></p>
+,<p>5π/4 ms<sup>-1</sup></p>
+,<p>3π/4 ms<sup>-1</sup></p>
+"<p><span style=""font-size: 18px;""><strong>পাঁচটি অণুর বেগ v, 2v, 3v, 4v, 5v অণুগুলোর গড় বর্গবেগের বর্গমূল কত?</strong></span></p>",1,one,
+,<p>11√v</p>
+*,<p>v√11</p>
+,<p>v/√11</p>
+,√11<p></p>
+"<p><span style=""font-size: 18px;""><strong>কোন মেঝেতে স্থাপিত 400 N এর একটি কাঠের ব্লকের উপর আনুভূমিকভাবে 160N বল প্রয়োগ করলে এটি চলার উপক্রম হয়। মেঝে ও কাঠের ব্লকের মধ্যবর্তী ঘূর্ণাঙ্ক হবে-</strong></span></p>",1,one,
+,<p>4.00</p>
+*,<p>0.40</p>
+,<p>1.60</p>
+,<p>0.16</p>
+"<p><span style=""font-size: 18px;""><strong>দুইটি সরল ছন্দিত কণার গতির সমীকরণ</strong></span></p><p class=""mathy""><strong><span style=""font-size: 18px;"">x=asin(omegat+pi)ও x=cos{omegat+(pi/3)}</span></strong></p><p><span style=""font-size: 18px;""><strong> হলে কণা দুটির দশা পার্থক্য কত?</strong></span></p>",1,one,
+,"<p class=""mathy"">pi/3</p>"
+,"<p class=""mathy"">(2pi)/3</p>"
+*,"<p class=""mathy"">pi/6</p>"
+,<p>0</p>
+"<p><span style=""font-size: 18px;""><strong>সরল ছন্দিত গতিতে চলমান একটি বস্তুর সমীকরণ</strong></span></p><p class=""mathy""><strong><span style=""font-size: 18px;"">Y=10sin[12t-(pi/6)];</span></strong></p><p><span style=""font-size: 18px;""><strong>এখানে Y এর একক মিটার, t এর একক sec এবং দশা ধ্রুবকের একক rad। বস্তুটির সর্বোচ্চ দ্রুতি কত?</strong></span></p>",1,one,
+,<p>10m/s</p>
+,<p>12m/s</p>
+,"<p class=""mathy"">pi/6ms^-1</p>"
+*,<p>120m/s</p>
+"<p><span style=""font-size: 18px;""><strong>k স্প্রিং ধ্রুবকের একটি স্প্রিংকে টেনে লম্বা করা হলো। দ্বিতীয় একটি স্প্রিংকে এর অর্ধেক পরিমাণ লম্বা করতে দ্বিগুণ কাজ করতে হয়। দ্বিতীয় স্প্রিং এর স্প্রিং ধ্রুবক কত?</strong></span></p>",1,one,
+,<p>k</p>
+,<p>2k</p>
+,<p>4k</p>
+*,<p>8k</p>
+"<p><span style=""font-size: 18px;""><strong>10 kg ভরের একটি বস্তুকে স্প্রিং থেকে ঝুলানো হলো যার স্প্রিং ধ্রুবক 200 N/m। স্প্রিং এর দৈর্ঘ্য বৃদ্ধি [স্প্রিং এর এক প্রান্ত আটকানো আছে] হবে-</strong></span></p>",1,one,
+,<p>0.05m</p>
+,<p>20.0m</p>
+,<p>2.4m</p>
+*,<p>0.49m</p>
+"<p><span style=""font-size: 18px;""><strong>একটি বস্তু 4 cm বিস্তারে সরল ছন্দিত স্পন্দন সম্পন্ন করছে। সাম্যবস্থা থেকে কত দূরত্বে বস্তুটির গতিশক্তি ও স্থিতিশক্তি সমান হবে?</strong></span></p>",1,one,
+,<p>√2 cm</p>
+*,<p>2 √2 cm</p>
+,<p>2 cm</p>
+,<p>1 cm</p>
+"<p><span style=""font-size: 18px;""><strong>একটি সেকেন্ড দোলকের দৈর্ঘ্য 25.6% বৃদ্ধি করা হলো। এর দোলনকালের বৃদ্ধি হবে-</strong></span></p>",1,one,
+*,<p>12%</p>
+,<p>24%</p>
+,<p>5%</p>
+,<p>50%</p>
+"<p><span style=""font-size: 18px;""><strong>সম্পৃক্ত বাষ্পচাপের ক্ষেত্রে নিচের কোন লেখচিত্রটি সঠিক?</strong></span></p>",1,one,
+,"<p><img class=""fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2022-06-18/6a6bcdc0-b548-44c0-a5f7-cda02ac0e607-Screenshot-20220618-164049-Drive.jpg"" style=""width: 121px;""/></p>"
+,"<p><img class=""fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2022-06-18/e6ac2b4c-a8d0-4813-8132-eadc3d94a0a3-Screenshot-20220618-164043-Drive.jpg"" style=""width: 133px;""/></p>"
+*,"<p><img class=""fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2022-06-18/2b8bd3a6-aea9-4217-ac05-849e44bf9ea6-Screenshot-20220618-164035-Drive.jpg"" style=""width: 131px;""/></p>"
+,"<p><img class=""fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2022-06-18/ae2f5a3a-de93-499f-a357-6cc57f999ec6-Screenshot-20220618-164026-Drive.jpg"" style=""width: 131px;""/></p>"
+"<p><span style=""font-size: 18px;""><strong>একটি কার্নো ইঞ্জিন 5OOK তাপমাত্রার তাপ উৎস থেকে 1250 J তাপ গ্রহণ করে এবং তাপ গ্রাহকে 700 J তাপ বর্জন করে। তাপ গ্রাহকের তাপমাত্রা ও ইঞ্জিনের দক্ষতা কত?</strong></span></p>",1,one,
+*,"<p>280K,44%</p>"
+,"<p>285K, 44%</p>"
+,"<p>285K, 45%</p>"
+,"<p>290K, 40%</p>"
+"<p><span style=""font-size: 18px;""><strong>ম্যাক্সয়েলের সূত্র কোনটি ?</strong></span></p>",1,one,
+,"<p class=""mathy"">lamda=1/(sqrt2pisigma^2n^2)</p>"
+*,"<p class=""mathy"">lamda=1/(sqrt2pinsigma^2) </p>"
+,"<p class=""mathy"">lamda=1/(sqrt3pisigma^2n)</p>"
+,"<p class=""mathy"">lamda=1/(sqrt2pi^2n) </p>"
+"<p><span style=""font-size: 18px;""><strong>একটি বস্তুর গতিবেগ কত হলে বস্তুটির গতিশক্তি নিশ্চল শক্তির দ্বিগুণ হবে।</strong></span></p>",1,one,
+,<p>c</p>
+*,<p>.94c</p>
+,<p>0.866c</p>
+,<p>0.5c</p>
+"<p><span style=""font-size: 18px;""><strong>5kg ভরের একটি হাতুড়ি দ্বারা দেয়ালে একটি পেরেককে 2 ms<sup>-1</sup> বেগে আঘাত করায় এটি 10 cm ঢুকে গেল। দেয়ালের গড় বাধা বল কত?</strong></span></p>",1,one,
+*,<p>100N</p>
+,<p>200N</p>
+,<p>150N</p>
+,<p>90N</p>
+"<p><span style=""font-size: 18px;""><strong>একটি পাখা স্থির অবস্থা হতে সমত্বরণে চলে 10s এ পাখাটির কৌণিক বেগ 180 rpm হলে উক্ত সময়ে পাখাটির অতিক্রান্ত দূরত্ব কত?</strong></span></p>",1,one,
+*,<p>30π</p>
+,<p>33π</p>
+,<p>23π</p>
+,<p>40π</p>
+"<p><span style=""font-size: 18px;""><strong>100 ওয়াটের একটি বৈদ্যুতিক বাতি 10 ঘন্টা জ্বললে কত ইউনিট বিদ্যুৎ খরচ হবে?</strong></span></p>",1,one,
+,<p>10 ইউনিট</p>
+,<p>50 ইউনিট</p>
+,<p>5 ইউনিট</p>
+*,<p>1 ইউনিট</p>
+"<p><span style=""font-size: 18px;""><strong>একটি তরঙ্গের দুটি বিন্দুর মধ্যে পথ পার্থক্য 5λ/4 হলে বিন্দুদ্বয়ের মধ্যে দশা পার্থক্য কত ?</strong></span></p>",1,one,
+,<p>π/2.5</p>
+,<p>π/4</p>
+*,<p>π/2</p>
+,<p>π/3</p>
+"<p><span style=""font-size: 18px;""><strong>î + 2ĵ + k̂ এবং 2î + ĵ + 2k̂ ভেক্টদ্বয়ের লব্ধির সমান্তরাল একক ভেক্টর নির্ণয় কর।</strong></span></p>",1,one,
+*,"<p class=""mathy"">(3hati+3hatj+3hatk)/(3sqrt3)</p>"
+,"<p class=""mathy"">(3hati+3hatj-3hatk)/(3sqrt3)</p>"
+,"<p class=""mathy"">(3sqrt3)/(3hati+3hatj-3hatk)</p>"
+,"<p class=""mathy"">(3hati+3hatj-3hatk)/(4sqrt2)</p>"
+"<p><span style=""font-size: 18px;""><strong>একটি গতিশীল বস্তুর দূরত্ব x এর সঙ্গে সময় t এর সম্পর্ক হচ্ছে 1.4t<sup>2</sup> + 0.15t<sup>3</sup>m । 5.0s সময়ে বস্তুটির তাৎক্ষণিক দ্রুতি কত?</strong></span></p>",1,one,
+,<p>53.8m/s</p>
+*,<p>25.3m/s</p>
+,<p>10.8m/s</p>
+,<p>6.5m/s</p>
+"<p><span style=""font-size: 18px;""><strong>4 kg ও 6 kg ভরের দুইটি বস্তু যথাক্রমে 10 ms<sup>-1</sup> এবং 5 ms<sup>-1 </sup>বেগে একই দিকে চলার সময় একে অপরকে ধাক্কা দিল। ধাক্কার পর হয়ে চললে কত বেগ প্রাপ্ত হবে ?</strong></span></p>",1,one,
+,<p>8 ms<sup>-1</sup></p>
+*,<p>7 ms<sup>-1</sup></p>
+,<p>8 ms<sup>-3</sup></p>
+,<p>10 ms<sup>-1</sup></p>
+"<p><span style=""font-size: 18px;""><strong>কোন 1 টি গ্রহের ভর পৃথিবীর 4 গুণ ব্যাসার্ধ 2 গুণ হলে উক্ত গ্রহের মুক্তি বেগ পৃথিবীর তুলনায় শতকরা কত ভাগ বেশি হবে?</strong></span></p>",1,one,
+,<p>141%</p>
+*,<p>41%</p>
+,<p>10%</p>
+,<p>110%</p>
+"<p><span style=""font-size: 18px;""><strong>1kg পানিকে 1 atm চাপে বাষ্পে পরিণত করতে অভ্যন্তরীণ শক্তির পরিবর্তন নির্ণয় কর। </strong></span></p><p><span style=""font-size: 18px;""><strong>(জলীয় বাষ্পের সুপ্ত তাপ 2.268×10<sup>6</sup> J/kg ও 1 kg জলীয় বাষ্পের আয়তন=1.671m<sup>3</sup>)</strong></span></p>",1,one,
+*,<p>2.099×10<sup>6</sup>j</p>
+,<p>1.099×10<sup>6</sup>j</p>
+,<p>3.099×10<sup>6</sup>j</p>
+,<p>2.099×10<sup>7</sup>j</p>
+"<p><span style=""font-size: 18px;""><strong>গ্যাসীয় পদার্থকে তাপ প্রদান করলে-</strong></span></p>",1,one,
+,<p>প্রসারণ ঘটে কিন্তু চাপের কোন পরিবর্তন ঘটে না</p>
+,<p>শুধু আপাত প্রসারণ ঘটে</p>
+,<p>শুধু প্রকৃত প্রসারণ ঘটে</p>
+*,<p>প্রকৃত ও আপাত প্রসারণ ঘটে</p>
+"<p><span style=""font-size: 18px;""><strong>Ā = ĵ + k̂, B̄ = î হলে-</strong></span></p>",1,one,
+*,<p>Ā ও B̄ পরস্পর লম্ব</p>
+,<p>Ā ও B̄ পরস্পর সমান্তরাল</p>
+,<p>Ā ও B̄ এর মধ্যবর্তী কোণ 45°</p>
+,<p>Ā ও B̄ এর মধ্যবর্তী কোণ 60°</p>
+"<p><span style=""font-size: 18px;""><strong>a এর কোন মানের জন্য ভেক্টর Ā ও B̄ সমান্তরাল হবে যেখানে ā = 5î + 2ĵ - 3k̂ ও B̄ = aî + 4ĵ - 6k̂?</strong></span></p>",1,one,
+,<p>2</p>
+,<p>4</p>
+,<p>6</p>
+*,<p>10</p>
+"<p><span style=""font-size: 18px;""><strong>স্রোতের বেগের মানের √2 গুণ মানের বেগে সাঁতার কেটে একজন সাঁতারু নদীর অপর পাড়ে সোজাসুজি গিয়ে পৌঁছল। নদীর তীরের সাথে সাঁতারুর কোণ নির্ণয় কর।</strong></span></p>",1,one,
+,<p>120°</p>
+,<p>130°</p>
+*,<p>135°</p>
+,<p>65°</p>
+"<p><span style=""font-size: 18px;""><strong>ভূমি হতে একটি পাথরকে 45° কোণে নির্দিষ্ট বেগে মারা হলে আনুভূমিক বরাবর পাথরটি 80m গেলে সর্বোচ্চ কত উচ্চতায় পৌছাবে ?</strong></span></p>",1,one,
+,<p>19m</p>
+*,<p>20m</p>
+,<p>21m</p>
+,<p>22m</p>
+"<p><strong><span style=""font-size: 18px;"">একটি বস্তু স্থির অবস্থান হতে যাত্রা আরম্ভ করে ১ম সেকেন্ডে 1m দূরত্ব অতিক্রম করে পরবর্তী 1m দূরত্ব অতিক্রম করতে বস্তুটির কত সময় লাগবে ?</span></strong></p>",1,one,
+,<p>0.73s</p>
+*,<p>0.414s</p>
+,<p>1.414s</p>
+,<p>1.73s</p>
+"<p><span style=""font-size: 18px;""><strong>একটি হাতঘড়ির সেকেন্ডের কাঁটার দৈর্ঘ্য 1.5cm হলে এর প্রান্তের রৈখিক বেগ কত ?</strong></span></p>",1,one,
+,<p>0.147cm/s</p>
+,<p>0.177cm/s</p>
+,<p>0.167cm/s</p>
+*,<p>0.157cm/s</p>
+"<p><span style=""font-size: 18px;""><strong>ভূমির সঙ্গে θ কোণে আনত কোন তল হতে একটি বস্তু পড়তে থাকলে বস্তুর ত্বরণের মান কত ?</strong></span></p>",1,one,
+,<p>g</p>
+*,<p>g sinθ</p>
+,<p>g cosθ</p>
+,<p>g tan θ</p>
+"<p><span style=""font-size: 18px;""><strong>একটি রাস্তা 100m ব্যাসার্ধে বাঁক নিয়েছে। ঐ স্থানে রাস্তাটি 6m চওড়া এবং এর ভিতরের কিনারা হতে বাইরের কিনারা 0.6m উঁচু। সর্বোচ্চ কত বেগে ঐ স্থানে নিরাপদে বাঁক নেয়া সম্ভব? </strong></span></p><p><span style=""font-size: 18px;""><strong>[g=10m/s<sup>2</sup>]</strong></span></p>",1,one,
+*,<p>10 ms<sup>-1</sup></p>
+,<p>1 ms<sup>-1</sup></p>
+,<p>0.1 ms<sup>-1</sup></p>
+,<p>100 ms<sup>-1</sup></p>
+"<p><span style=""font-size: 18px;""><strong>একটি সেকেন্ড দোলককে পাহাড়ের চুড়ায় নিয়ে গেলে দোলকটি এক দিনে 500s slow হলে বর্তমানে এর দোলনকাল কত ?</strong></span></p>",1,one,
+,<p>2.00s</p>
+*,<p>2.01s</p>
+,<p>3.01s</p>
+,<p>4.10s</p>
+"<p><span style=""font-size: 18px;""><strong>একটি বৈদ্যুতিক হিটার 220V সরবরাহ লাইন থেকে 2A বিদ্যুৎ গ্রহণ করে থাকে, হিটারটি 500 ঘণ্টা ব্যবহার করলে শক্তি ব্যয় হবে?</strong></span></p>",1,one,
+,<p>220 × 6 W</p>
+*,<p>220 × 2 × 500W-h</p>
+,<p>220 × 2 W</p>
+,<p>220/2 × 500W-h</p>
+"<p><span style=""font-size: 18px;""><strong>একটি সেকেন্ড দোলকের দৈর্ঘ্য তাপের ফলে এমনভাবে বৃদ্ধি পেল যে সেটি ঘন্টায় 18 সেকেন্ড স্লো যায়, কার্যকর দৈর্ঘ্য কতটুকু বৃদ্ধি পেয়েছে?</strong></span></p>",1,one,
+*,<p>1%</p>
+,<p>2%</p>
+,<p>3%</p>
+,<p>4%</p>
+"<p><span style=""font-size: 18px;""><strong>কোন হ্রদের তলদেশ থেকে পানির উপরি তলে আসায় একটি বায়ু বুদবুদের ব্যাস দ্বিগুণ হয়। হ্রদের পৃষ্ঠে বায়ুমন্ডলের চাপ 10<sup>5</sup> Nm<sup>-2</sup> হলে হ্রদের গভীরতা কত ?</strong></span></p>",1,one,
+,<p>74.4m</p>
+,<p>73.4m</p>
+*,<p>71.4m</p>
+,<p>72.4m</p>
+"<p><span style=""font-size: 18px;""><strong>1m দৈর্ঘ্যের সুতার সাহায্যে বালতিতে পানি নিয়ে মিনিটে কতবার ঘুরালে বালতি হতে পানি পড়বে না?</strong></span></p>",1,one,
+*,<p>30 বার</p>
+,<p>31 বার</p>
+,<p>32 বার</p>
+,<p>33 বার</p>
+"<p><span style=""font-size: 18px;""><strong>কোনো স্থির ত্বরণযুক্ত বস্তু ছয় সেকেন্ডে 240m এবং ষষ্ঠ সেকেন্ডে 65m অতিক্রম করলে 20 তম সেকেন্ডে কতো দূরত্ব অতিক্রম করবে?</strong></span></p>",1,one,
+,<p>120m</p>
+*,<p>260m</p>
+,<p>430m</p>
+,<p>800m</p>
+"<p><span style=""font-size: 18px;""><strong>19.6m উঁচু একটি টেবিল হতে একটি পাথরকে আনুভূমিক বরাবর কত বেগে মারলে পাথরটি 0.5m দূরে ভূমি স্পর্শ করবে ?</strong></span></p>",1,one,
+*,<p>0.25m/s</p>
+,<p>0.5m/s</p>
+,<p>1.0m/s</p>
+,<p>0.025m/s</p>
+"<p><span style=""font-size: 18px;""><strong>কোন বিন্দুতে ক্রিয়ারত দুটি বলের একটি অপরটির দ্বিগুণ এবং লব্ধি ক্ষুদ্রটির উপর লম্ব। বলদ্বয়ের অন্তর্গত কোণের পরিমাণ-</strong></span></p>",1,one,
+,<p>45°</p>
+,<p>150°</p>
+*,<p>120°</p>
+,<p>135°</p>
+"<p><span style=""font-size: 18px;""><strong>একটি গাড়ি স্থির অবস্থা হতে সমত্বরণে চলে 10s এ 20m/s বেগ প্রাপ্ত হয়। তারপর 15s সমবেগে চলে। অতপর ব্রেক কষে গাড়িটিকে 5s এর মধ্যে থামানো হলে গাড়িটির মোট অতিক্রান্ত দূরত্ব কত ?</strong></span></p>",1,one,
+*,<p>450m</p>
+,<p>460m</p>
+,<p>456m</p>
+,<p>650m</p>
+"<p><span style=""font-size: 18px;""><strong>একটি সমতল নিঃসরণ গ্রেটিং এর দ্বারা সৃষ্ট বর্ণালি রেখার দ্বিতীয় ক্রম 30° অপবর্তন কোণ উৎপন্ন করি। যদি আলোর তরঙ্গদৈর্ঘ্য 5890×10<sup>-10</sup>m হয়, তবে গ্রেটিং এর প্রতি মিটারে রেখার সংখ্যা নির্ণয় কর।</strong></span></p>",1,one,
+,<p>1.7×10<sup>6</sup></p>
+,<p>1.4×10<sup>5</sup></p>
+*,<p>3.7×10<sup>6</sup></p>
+,<p>4.2×10<sup>5</sup></p>
+"<p><strong><span style=""font-size: 18px;"">একজন নর্তকী 10 rad/s বেগে নাচা অবস্থায় হাত গুটিয়ে জড়তার ভ্রামক 50% হ্রাস করলে বর্তমান বেগ কত?</span><br/></strong></p>",1,one,
+,<p>10 rad/s</p>
+*,<p>20 rad/s</p>
+,<p>40 rad/s</p>
+,<p>50 rad/s</p>
+"<p><strong><span style=""font-size: 18px;"">নীচের কোন ধর্মটি শব্দ তরঙ্গের বেলায় প্রযোজ্য নয়?</span><br/></strong></p>",1,one,
+,<p>প্রতিফলন</p>
+,<p>প্রতিসরণ</p>
+*,<p>ব্যতিচার</p>
+,<p>অপবর্তন</p>
+"<p><strong><span style=""font-size: 18px;"">একটি 1000</span></strong><span style=""font-size: 18px;"">Ω</span><strong><span style=""font-size: 18px;""> অভ্যন্তরীণ রোধের ভোল্টমিটার দ্বারা সর্বোচ্চ 10V পরিমাপ করা যায়। এটি দ্বারা 500V পরিমাপ করতে হলে শ্রেণীতে কত মানের রোধ যুক্ত করতে হবে?</span><br/></strong></p>",1,one,
+,<p>50000Ω</p>
+*,<p>49000Ω</p>
+,<p>500Ω</p>
+,<p>1000/49 Ω</p>
+"<p><strong><span style=""font-size: 18px;"">একটি তামার তার টুকরোর রোধ 10গুণ বাড়াতে হলে তাকে টেনে কতগুণ লম্বা করতে হবে?</span><br/></strong></p>",1,one,
+,<p>5</p>
+*,<p>3.16</p>
+,<p>10</p>
+,<p>100</p>
+"<p><strong><span style=""font-size: 18px;"">V=u+at সমীকরণটি নিচের কোন লেখচিত্র দ্বারা প্রকাশ করা যায়?</span><br/></strong></p>",1,one,
+*,"<p><img class=""fr-fic fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2022-06-18/60fde9a9-8525-4113-a04a-8241fe450634-image.png"" style=""width: 138px;""/></p>"
+,"<p><img class=""fr-fic fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2022-06-18/88c07f4b-5d24-434d-ba09-3c15c13c89ac-image.png"" style=""width: 127px;""/><br/></p>"
+,"<p><img class=""fr-fic fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2022-06-18/5ae61c51-dd84-45b8-a908-d3abfd9208ba-image.png"" style=""width: 130px;""/></p>"
+,"<p><img class=""fr-fic fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2022-06-18/aa2eac8e-7a9a-4df8-b935-30b1acb6808c-image.png"" style=""width: 140px;""/></p>"
+"<p><strong><span style=""font-size: 18px;"">একটি স্প্রিংকে টেনে 5 x 10<sup>-2</sup> m প্রসারিত করতে যদি 10N বলের প্রয়োজন হয় তবে ঔ প্রসারণে কত কাজ সম্পাদিত হবে?</span><br/></strong></p>",1,one,
+,<p>0.5j</p>
+,<p>0.35j</p>
+,<p>0.1j</p>
+*,<p>0.25j</p>
+"<p class=""mathy""><strong><span style=""font-size: 18px;"">vecA=4hati+2hatk;vecB=9hatk+3hatj and vecC=vecA+vecB </span></strong></p><p><strong><span style=""font-size: 18px;"">হলে C ভেক্টরটি Z অক্ষের সাথে কত কোণ তৈরি করে?</span><br/></strong></p>",1,one,
+*,"<p class=""mathy"">cos^-1(11/sqrt(142))</p>"
+,"<p class=""mathy"">cos^-1(11/sqrt(130))</p>"
+,"<p class=""mathy"">cos^-1(11/sqrt(136))</p>"
+,"<p class=""mathy"">cos^-1(11/sqrt(146))</p>"
+"<p><strong><span style=""font-size: 18px;"">আপতিত আলোর কম্পাঙ্গ সূচন কম্পাঙ্কের সমান হলে মুক্ত ইলেক্ট্রনের গতিবেগ কি হবে?</span><br/></strong></p>",1,one,
+,<p>কমবে</p>
+*,<p>শুণ্য হবে</p>
+,<p>বাড়বে</p>
+,<p>None</p>
+"<p><strong><span style=""font-size: 18px;"">একটি 100Kg ভরের গাড়িকে 10sec এ স্থির অবস্থা হতে 10 ms<sup>-1</sup> বেগ দিতে কত ক্ষমতার ইঞ্জিন লাগবে?</span></strong></p>",1,one,
+*,<p>1000W</p>
+,<p>50W</p>
+,<p>750W</p>
+,<p>500W</p>
+"<p><strong><span style=""font-size: 18px;"">একটি গাড়ি পূর্বদিকে 10m এবং এরপর উত্তর দিকে 5m পথ অতিক্রম করে। এতে মোট 10sec সময় লাগবে, গাড়িটির গড় দ্রুতি কত?</span><br/></strong></p>",1,one,
+*,<p>1.12 ms<sup>-1</sup></p>
+,<p>1.5 ms<sup>-1</sup></p>
+,<p>2.5 ms<sup>-1</sup></p>
+,<p>150 ms<sup>-1</sup></p>
+"<p><span style=""font-size: 18px;""><strong>রৈখিক ভরবেগ 100% বাড়ালে গতিশক্তি বাড়ে-</strong></span></p>",1,one,
+,<p>200%</p>
+,<p>125%</p>
+*,<p>300%</p>
+,<p>225%</p>
+"<p><span style=""font-size: 18px;""><strong>2m ব্যাসার্ধের বৃত্তপথে 54kmh<sup>-1</sup> সদ্ৰুতিতে গতিশীল। একটি বস্তুর কেন্দ্রমুখী ত্বরণ কত ?</strong></span></p>",1,one,
+*,<p>112.5ms<sup>-2</sup></p>
+,<p>1.19ms<sup>-2</sup></p>
+,<p>8.95ms<sup>-2</sup></p>
+,<p>4.3ms<sup>-2</sup></p>
+"<p><span style=""font-size: 18px;""><strong>একটি লিফট 5 ms<sup>-2</sup> সমত্বরণে নিচের দিকে নামছে। ভেতরে থাকা 60kg ভরের একজন ব্যক্তি তখন কত ওজন অনুভব করবেন ? </strong></span></p><p><span style=""font-size: 18px;""><strong>[g = 10 ms<sup>-2</sup>]</strong></span></p>",1,one,
+,<p>150N</p>
+,<p>600N</p>
+,<p>900N</p>
+*,<p>300N</p>
+"<p><span style=""font-size: 18px;""><strong>10ms<sup>-1</sup> বেগে আসা 10g ভরের একটি বল দেয়ালের সাথে ধাক্কা খেয়ে 5ms<sup>-1</sup> বেগে ফিরে যায়। বলের ঘাত কত ?</strong></span></p>",1,one,
+*,<p>-0.15 kgms<sup>-1</sup></p>
+,<p>-0.05 kgms<sup>-1</sup></p>
+,<p>0.05 kgms<sup>-1</sup></p>
+,<p>1.15 kgms<sup>-1</sup></p>
+"<p><span style=""font-size: 18px;""><strong>কোন তেজস্ক্রিয় পদার্থের অর্ধায়ু 5 দিন। অণুটির 15/16 অংশ ক্ষয় হতে কতদিন লাগবে?</strong></span></p>",1,one,
+,<p>5 days</p>
+,<p>10 days</p>
+,<p>15 days</p>
+*,<p>20 days</p>
+"<p><span style=""font-size: 18px;""><strong>একটি জলপ্রপাত 100 মিটার উপর হতে পানি নিচে পতিত হয়। উপরের ও নীচের পানির তাপমাত্রা পার্থক্য নির্ণয় কর।</strong></span></p><p><span style=""font-size: 18px;""><strong>[ J = 4.2 jcal<sup>-1</sup>]</strong></span></p>",1,one,
+*,<p>0.234°C</p>
+,<p>1.233°C</p>
+,<p>0.134°C</p>
+,<p>0.224°C</p>
+"<p><span style=""font-size: 18px;""><strong>একটি মিটার ব্রিজের তারের দৈর্ঘ্য 1m। এর বাম ও ডান ফাঁকে 8Ω ও 10Ω এর রোধ যুক্ত করলে বামপ্রান্ত থেকে কত দূরে সাম্য বিন্দু পাওয়া যায়?</strong></span></p>",1,one,
+,<p>0.4444cm</p>
+,<p>4.444cm</p>
+*,<p>44.44cm</p>
+,<p>444.4cm</p>
+"<p><span style=""font-size: 18px;""><strong>একটি p-n জাংশনের বিভবাস্তব 2.2V থেকে বাড়িয়ে 2.4V করা হলো। এতে তড়িৎ প্রবাহ 400mAথেকে 800mA হলে গতীয় রোধ কত?</strong></span></p>",1,one,
+*,<p>0.5Ω</p>
+,<p>0.2Ω</p>
+,<p>400mA</p>
+,<p>কোনোটিই নয়</p>
+"<p><span style=""font-size: 18px;""><strong>একটি তড়িৎ ক্ষেত্রের দুইটি বিন্দু A এবং B এর মধ্যে 10V বিভব পার্থক্য বিদ্যমান। কি পরিমাণ চার্জকে A থেকে B বিন্দুতে সরাতে 5×10<sup>-2</sup>J কাজ করতে হবে?</strong></span></p>",1,one,
+,<p>5×10<sup>-1</sup>C</p>
+,<p>11<sup>-2</sup>C</p>
+*,<p>5×10<sup>-3</sup>C</p>
+,<p>10<sup>-5</sup>C</p>
+"<p><span style=""font-size: 18px;""><strong>100Ω রোধের একটি গ্যালভানোমিটার সর্বোচ্চ 10 mA তড়িৎ নিরাপদে গ্রহণ করতে পারে। কি ব্যবস্থা গ্রহণ করলে এর দ্বারা 10A প্রবাহ মাপা যাবে?</strong></span></p>",1,one,
+,<p>1.1Ω</p>
+,<p>1.0Ω</p>
+*,<p>0.1Ω</p>
+,<p>2.1Ω</p>
+"<p><span style=""font-size: 18px;""><strong>আপতিত আলোর তরঙ্গদৈর্ঘ্য 6000Å হলে আপতিত আলোর শক্তি কত?</strong></span></p>",1,one,
+,<p>2.08eV</p>
+,<p>2.09 eV</p>
+*,<p>2.07 ev</p>
+,<p>2.05 ev</p>
+"<p><span style=""font-size: 18px;""><strong>নীচের বর্তনীতে A এবং B বিন্দুর মাঝে বিভব পার্থক্য কত?<img class=""fr-fil fr-dib"" src=""https://testmozusercontent.com/ugc/2022-06-18/518feebc-342f-4302-8f3d-beefe5868078-Screenshot-20220618-163836-Drive.jpg"" style=""width: 396px;""/></strong></span></p>",1,one,
+,<p>100V</p>
+,<p>0V</p>
+*,<p>50V</p>
+,<p>1000V</p>
+"<p><span style=""font-size: 18px;""><strong>একটি তেজস্ক্রিয় পদার্থের অর্ধায়ু 10 দিন। কত দিনে ঐ পদার্থের 75% ক্ষয়প্রাপ্ত হবে?</strong></span></p>",1,one,
+,<p>10 দিন</p>
+,<p>15 দিন</p>
+*,<p>20 দিন</p>
+,<p>25 দিন</p>
+"<p><span style=""font-size: 18px;""><strong>অর্ধপরিবাহী জার্মেনিয়ামের সাথে অ্যাস্টার্টিন সামান্য পরিমাণে মেশালে সৃষ্ট অর্ধ পরিবাহী হচ্ছে:</strong></span></p>",1,one,
+,<p>p-টাইপ অর্ধপরিবাহী</p>
+*,<p>n-টাইপ অর্ধ পরিবাহী</p>
+,<p>p-n-p টাইপ </p>
+,<p>কোনটিই নয়</p>
+"<p><span style=""font-size: 18px;""><strong>একটি কোষের তড়িচ্চালক শক্তি 3v। এতে যখন 6 amp তড়িৎ প্রবাহিত হয়, তখন এর বিভব পার্থক্য হয় 2.2V। কোষের অভ্যন্তরীণ রোধ কত?</strong></span></p>",1,one,
+,<p>0.04Ω</p>
+,<p>0.30Ω</p>
+,<p>0.24Ω</p>
+*,<p>0.13Ω</p>
+"<p><span style=""font-size: 18px;""><strong>15Ω ও 30Ω মানের শ্রেণীতে যুক্ত দুটি রোধের উৎপন্ন তাপের অনুপাত কত?</strong></span></p>",1,one,
+,<p>2/3</p>
+,<p>-1/2</p>
+,<p>2/3</p>
+*,<p>1/2</p>
+"<p><span style=""font-size: 18px;""><strong>শ্রেণী এবং সমান্তরাল সমবায়ে সংযুক্ত দুটি তারের তুল্য রোধ যথাক্রমে 25Ω এবং 4Ω হলে তার দুটির নিজ নিজ রোধ কত?</strong></span></p>",1,one,
+,<p>10Ω ও 5Ω</p>
+*,<p>20Ω ও 5Ω</p>
+,<p>20Ω ও 20Ω</p>
+,<p>10Ω ও 25Ω</p>
+"<p><span style=""font-size: 18px;""><strong>একটি পুকুরের তলদেশে অবস্থিত কোন মাছের দিকে খাড়াভাবে তাকালে মাছটির দূরত্ব 3m মনে হয়। পুকুরটির প্রকৃত গভীরতা কত?</strong></span></p>",1,one,
+,<p>4.99m</p>
+,<p>5.99m</p>
+,<p>6.99m</p>
+*,<p>3.99m</p>
+"<p><span style=""font-size: 18px;""><strong>যে আলোর তরঙ্গদৈর্ঘ্য 0.1nm, তা হল-</strong></span></p>",1,one,
+*,<p>X-ray</p>
+,<p>y-ray</p>
+,<p>UV</p>
+,<p>Visible</p>
+"<p><span style=""font-size: 18px;""><strong>10 m লম্বা একটি রকেট তোমার সামনে দিয়ে 0.5 c বেগে যাবার সময় তার দৈর্ঘ্য তোমার কাছে কত মনে হবে?</strong></span></p>",1,one,
+,<p>5.0m</p>
+*,<p>8.66m</p>
+,<p>11.54m</p>
+,<p>15m</p>
+END

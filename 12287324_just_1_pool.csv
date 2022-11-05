@@ -1,0 +1,48 @@
+HTML
+<p>Question1</p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4
+<p>Question2</p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4
+<p><u>Question3</u></p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4
+POOL,50%
+<p>Question P1</p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4
+<p>Question P2</p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4
+END
+<p>Question 4</p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4
+<p>Question 5</p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4
+<p>Question 6</p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4
+<p>Question 7</p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4

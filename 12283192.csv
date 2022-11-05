@@ -1,0 +1,30 @@
+HTML
+POOL,50%
+"<p><img class=""fr-dib"" src=""https://testmozusercontent.com/ugc/2022-11-03/ebbd142d-adb6-49e9-9bfb-c45f37dbd09e-pexels-jonathan-borba-3194609.jpg"" style=""width: 87px;""/>sdafjfljsdlkf</p>"
+<p>Question</p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4
+GROUP,
+<p>asdofhkj</p>
+<p>Question</p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4
+END
+END
+GROUP,
+<p>dsfdfsdfsdf</p>
+<p>Question</p>,1,one,
+,Choice 1
+,Choice 2
+*,Choice 3
+,Choice 4
+END
+<p>Question</p>,1,one,<p>Type explanation here...adfdsfdf</p>
+,Choice 1
+,Choice 2
+*,Choice 3
+,<p>Choice 4</p>
