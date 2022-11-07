@@ -1,8 +1,4 @@
 import csv
-from anytree import AnyNode
-from anytree.exporter import JsonExporter
-from anytree.exporter import DictExporter
-from pprint import pprint
 
 from pool import *
 
@@ -14,8 +10,15 @@ from pool import *
 
 import json
 qs = []
-single_question = None
-structure = []
+
+
+
+
+
+
+
+
+linear_question = []
 def detect_type(row):
 	length = len(row)
 	if length == 4:
@@ -40,7 +43,12 @@ def detect_type(row):
 def serialize_question(row):
 	data = {}
 	data["question"] = row[0]
-	data["mark"] = row[1]
+	try:
+		mark = int(row[1])
+		data["mark"] = mark
+	except:
+		if row[1][0] == "~":
+			data["mark"] = int(row[1][1:])
 	data["answer"] = row[2]
 	data["explanation"] = row[3]
 	data["options"] = []
@@ -69,12 +77,27 @@ def serialize_text_block(row):
 def serialize_option(row):
 	data = {}
 	if row[0] == "":
-		data[""] = row[1]
+		data["option"] = row[1]
+		data["answer"] = False
 	else:
-		data["*"] = row[1]
+		data["option"] = row[1]
+		data["answer"] = True
 	return data
 
-with open('12272778.csv', newline='', encoding="utf8") as csvfile:
+
+def linearize(question):
+
+	for item in question:
+
+		# print(item)
+
+		if item :
+			if item["type"] == "group" or item["type"] == "pool":
+				if len(item["children"]) > 0:
+					linearize(item["children"])
+			else:
+				linear_question.append(item)
+with open('12287324.csv', newline='', encoding="utf8") as csvfile:
 	spamreader = csv.reader(csvfile)
 	question = None
 	pools = []
@@ -155,22 +178,22 @@ with open('12272778.csv', newline='', encoding="utf8") as csvfile:
 				else:
 					qs.append(question)
 			question = None
-			print(callstack)
-			print(pools)
-			print(groups)
+			# print(callstack)
+			# print(pools)
+			# print(groups)
 			if len(callstack) > 0:
 				cs = callstack.pop()
 
 
-				print(cs)
+				# print(cs)
 
-				print()
+				# print()
 				if cs == "pool":
 					p = pools.pop()
-					print(p)
+					# print(p)
 				else:
 					g = groups.pop()
-					print(g)
+					# print(g)
 	# print(addinlist(None))
 
 
@@ -202,6 +225,14 @@ with open('12272778.csv', newline='', encoding="utf8") as csvfile:
 	
 
 
-	print()
 	
-	print(json.dumps(list(map(serialize, qs))))
+	# print(json.dumps(list(map(serialize, qs))))
+
+
+
+
+
+
+	linearize(list(map(serialize, qs)))
+
+	print(json.dumps(linear_question))

@@ -1,9 +1,14 @@
 HTML
-<p>Question1</p>,1,one,
+<p>Question1</p>,3,one,
 ,Choice 1
-,Choice 2
-*,Choice 3
+*,Choice 2
+,Choice 3
 ,Choice 4
+<p>Question</p>,~5,many,
+,Choice 1
+*,Choice 2
+*,Choice 3
+*,Choice 4
 <p>Question2</p>,1,one,
 ,Choice 1
 ,Choice 2

@@ -30,7 +30,9 @@ class Pool:
 
 	def __init__(self, row):
 		self.type = "pool"
-		self.random_show = "100%"
+		
+		
+		self.random_show = row[1]
 		self.children = []
 
 	# def addChildren(self, data, type, level):
@@ -46,7 +48,18 @@ class Pool:
 
 	def get_children(self):
 			childrens = []
-			for item in random.sample(self.children, 5):
+
+
+
+			if self.random_show[-1] == "%":
+				count = int(self.random_show[:-1])
+				count = int(len(self.children)*(count/100))
+			else:
+				count = int(self.random_show)
+				count = int(len(self.children)*(count/100))
+
+			print(str(count) + " " + str(len(self.children)) + " " + self.random_show)
+			for item in random.sample(self.children, count):
 				try:
 					if item.type == "group" or item.type == "pool":
 						childrens.append(item.serialize())
